@@ -151,6 +151,11 @@ nav{
     height: 50px;
 }
 
+.chart-temperature{
+    margin-top: 10px;
+    margin-bottom: 25px;
+}
+
 
 .weatherMapSigniture{
     margin-bottom: 20px;
