@@ -1,3 +1,6 @@
+// client-side js, loaded by index.html
+// run by the browser each time the page is loaded
+
 window.addEventListener('load', () =>{
 
     if (navigator.geolocation) {
